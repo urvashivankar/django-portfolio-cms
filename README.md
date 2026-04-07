@@ -90,7 +90,7 @@ The backend is decoupled and follows the **CMS-as-a-Service** pattern.
 
 ## Professional Use Case
 
-This architecture allows you to maintain a **stunning, high-end portfolio** while keeping the content as easy to edit as a blog. No more manual code edits for every new project or skill—just log in, add, and save. 🚀
+This architecture allows you to maintain a **stunning, high-end portfolio** while keeping the content as easy to edit as a blog. No more manual code edits for every new project or skill—just log in, add, and save. 
 
 
 
