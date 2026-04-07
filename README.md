@@ -1,4 +1,4 @@
-#  Developer Portfolio CMS (Full Stack)
+#  Developer Portfolio CMS 
 
 A professional, production-ready Developer Portfolio CMS built with **Django** and **Django REST Framework** to power a high-performance **React/Vite** frontend.
 
@@ -6,7 +6,7 @@ This project allows you to manage your entire professional identity—projects, 
 
 ---
 
-## ✨ Features
+## Features
 
 - **Admin Dashboard**: Fully manageable via Django Admin (`admin/admin123`).
 - **REST API**: Clean read-only endpoints for all portfolio sections.
@@ -17,7 +17,7 @@ This project allows you to manage your entire professional identity—projects, 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - **Django**: Core web framework.
@@ -34,7 +34,7 @@ This project allows you to manage your entire professional identity—projects, 
 
 ---
 
-## 📦 API Endpoints
+## API Endpoints
 
 | Endpoint           | Description                      |
 |--------------------|----------------------------------|
@@ -46,7 +46,7 @@ This project allows you to manage your entire professional identity—projects, 
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Backend Setup
 ```bash
@@ -66,7 +66,7 @@ npm run dev
 
 ---
 
-## 🔐 Admin Panel
+## Admin Panel
 URL: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 Manage your professional presence:
@@ -78,7 +78,7 @@ Manage your professional presence:
 
 ---
 
-## 🌐 Connecting Your Frontend
+## Connecting Your Frontend
 
 The backend is decoupled and follows the **CMS-as-a-Service** pattern.
 
@@ -88,10 +88,9 @@ The backend is decoupled and follows the **CMS-as-a-Service** pattern.
 
 ---
 
-## 🔥 Professional Use Case
+## Professional Use Case
 
 This architecture allows you to maintain a **stunning, high-end portfolio** while keeping the content as easy to edit as a blog. No more manual code edits for every new project or skill—just log in, add, and save. 🚀
 
----
 
-**Developed with 💖 for Urvashi Vankar**
+
